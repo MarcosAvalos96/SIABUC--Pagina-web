@@ -17,6 +17,6 @@ Click al boton imprimir, se manda a imprimir un pdf con un formato dado
 <img src="capturas de pantalla/imprimir_formato.png">
 
 ### Varias cuentas encontradas
-el resultado de colocar más de una cuenta en el buscador, en este caso arrojó cuentas con multas y prestamos mostrando la informacion en "cards"
+el resultado de colocar más de una cuenta en el buscador, en este caso arrojó cuentas con prestamos mostrando la informacion en "cards"
 teniendo opcion para imprimir un formato grupal.
 <img src="capturas de pantalla/varias_cuentas.png">
