@@ -1,5 +1,5 @@
 # SIABUC Pagina-web
-Pagina Web con un buscador como pantalla principal, donde se coloca uno o varios numeros de cuenta de cualquier usuario registrado en la universidad, para así mismo arrojar detalles si tiene adeudos o no, como multas y prestamos en cualquier de las bibliotecas de la universidad de colima, Programado en React accediendo a la api de la universidad para tener acceso a los datos de los usuarios y mostrarlos adecuadamente. 
+Pagina Web con un buscador como pantalla principal, donde se coloca uno o varios numeros de cuenta de cualquier usuario registrado en la universidad, para así mismo arrojar detalles si tiene adeudos o no, como multas y prestamos en cualquier de las bibliotecas de la universidad de colima, programado en React accediendo a la API de la universidad para tener acceso a los datos de los usuarios y mostrarlos adecuadamente. 
 
 
 # Capturas de pantalla
