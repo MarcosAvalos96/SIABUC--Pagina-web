@@ -4,18 +4,19 @@ Sistema de multas y deudas para las bibliotecas de la universidad de colima, con
 
 # Capturas de pantalla
 ### Pantalla de inicio
-se coloca un numero de cuenta en el buscador, es ente caso mi numero de cuenta
+Se coloca un numero de cuenta en el buscador, es ente caso mi numero de cuenta
 
 <img src="capturas de pantalla/inicio.png">
 
 ### 1 Cuenta encontrada
-resultados arrojados del final de la busqueda con mi numero de cuenta
+Resultados arrojados del final de la busqueda con mi numero de cuenta
 <img src="capturas de pantalla/cuenta_encontrada.png">
 
 ### Imprimir el formato
-al dar click al boton imprimir, se manda a imprimir un pdf con un formato dado
+Click al boton imprimir, se manda a imprimir un pdf con un formato dado
 <img src="capturas de pantalla/imprimir_formato.png">
 
 ### Varias cuentas encontradas
 el resultado de colocar más de una cuenta en el buscador, en este caso arrojó cuentas con multas y prestamos
+teniendo opcion para imprimir un formato grupal.
 <img src="capturas de pantalla/varias_cuentas.png">
